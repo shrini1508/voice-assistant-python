@@ -1,0 +1,30 @@
+command,intent
+open youtube,open_youtube
+start youtube,open_youtube
+launch youtube,open_youtube
+
+open google,open_google
+search google,open_google
+
+what is the time,tell_time
+tell me time,tell_time
+current time,tell_time
+
+play music,play_music
+start music,play_music
+
+open calculator,open_calculator
+start calculator,open_calculator
+
+open notepad,open_notepad
+launch notepad,open_notepad
+
+set reminder,set_reminder
+create reminder,set_reminder
+remember this,set_reminder
+
+search python,google_search
+search machine learning,google_search
+
+what is today's date,tell_date
+tell date,tell_date
